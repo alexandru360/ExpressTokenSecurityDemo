@@ -1,0 +1,16 @@
+{
+  "name": "express-token-security-demo",
+  "version": "1.0.0",
+  "description": "Demonstrating token renewal on response.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Badita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "noogger": "^0.1.8"
+  }
+}
